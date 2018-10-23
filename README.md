@@ -5,6 +5,8 @@
 - [x] 可直接引入项目
 - [x] 开箱即用
 
+相关依赖： docker , docker-compose
+
 
 ## 使用说明
 
